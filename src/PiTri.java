@@ -1,6 +1,6 @@
 public class PiTri {
 
-    public static void main(String[] args) {//asdasd
+    public static void main(String[] args) {//asdasdas
         if(args == null || args.length == 0){
             System.out.println("Введите количество пифагоровых троек для вывода или введите три числа для проверки.");
             return;
